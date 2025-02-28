@@ -1,0 +1,23 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(194, 194, 235);
+    display: flex;
+    justify-content: center;
+    margin: 10%; 
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    width: 80%;
+    height: 3000%;
+    background-color: white;
+    padding: 40px;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+section{
+    margin: 5%;
+}
